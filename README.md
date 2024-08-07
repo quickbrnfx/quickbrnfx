@@ -1,16 +1,67 @@
-## Hi there 👋
+## Hi there 👋 Im Mario!
 
-<!--
-**quickbrnfx/quickbrnfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to My GitHub Profile!
+I’m a Senior Test Engineer with a strong background in embedded C programming, Python, and statistical analysis. This GitHub repository showcases my projects, tools, and contributions in the field of software engineering and data analysis.
 
-Here are some ideas to get you started:
+📚 About Me
+With extensive experience in embedded systems and a passion for data-driven insights, I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Embedded C Programming: Crafting efficient and reliable code for embedded systems.
+Python: Utilizing Python for scripting, automation, and data analysis.
+R: Performing statistical analysis and data visualization.
+Statistical Programs: Leveraging various tools to extract meaningful insights from complex datasets.
+
+Example of an embedded system I’ve worked on.
+
+🔧 Technologies & Tools
+Languages: C, Python, R
+Tools: Git, GitHub, DevOps, CodeBeamer
+Statistical Tools: RStudio, MATLAB, Excel, Minitab
+Embedded Systems: ST (STM32), Ti, Arduino, Raspberry Pi, various other microcontrollers
+ 
+
+Some of the tools I use frequently.
+
+📁 Repositories
+Embedded Systems Projects
+Explore my work with embedded C and hardware-related projects. These repositories include firmware development, hardware interfacing, and system testing.
+
+
+Sample project screenshot.
+
+Python Scripts & Utilities
+Find various Python scripts for automation, data processing, and more. These repositories demonstrate practical uses of Python in real-world scenarios.
+
+
+A Python script in action.
+
+Data Analysis & Visualization
+Check out my R and statistical analysis projects. These include data cleaning, statistical modeling, and visualization techniques to derive insights from data.
+
+
+Visualizations and insights from my data analysis projects.
+
+Testing Frameworks & Tools
+A collection of test cases, frameworks, and tools designed to ensure software quality and reliability. Includes both unit and integration testing examples.
+
+
+Example of a testing framework in use.
+
+🔍 What I’m Working On
+Improving Embedded Systems Performance: Optimizing code and hardware interfaces for better efficiency.
+Advanced Data Analysis: Exploring machine learning and predictive analytics using Python and R.
+Open Source Contributions: Engaging with the open-source community to enhance testing frameworks and tools.
+Video: My Latest Project
+
+Check out a demo of my latest project.
+Watch Video on YouTube
+
+📫 Get in Touch
+Feel free to connect with me:
+
+LinkedIn: Your LinkedIn Profile
+Email: your.email@example.com
+Twitter: @YourTwitterHandle
+Thank you for visiting my GitHub profile. If you have any questions or would like to collaborate, don’t hesitate to reach out!
+
+Happy coding!
