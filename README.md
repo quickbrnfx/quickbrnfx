@@ -54,9 +54,13 @@ A collection of test cases, frameworks, and tools designed to ensure software qu
 Example of a testing framework in use.
 
 ## 🔍 What I’m Working On
-Improving Embedded Systems Performance: Optimizing code and hardware interfaces for better efficiency.
-Advanced Data Analysis: Exploring machine learning and predictive analytics using Python and R.
-Open Source Contributions: Engaging with the open-source community to enhance testing frameworks and tools.
+
+- **Improving Embedded Systems Performance:** Optimizing code and hardware interfaces for better efficiency.
+
+- **Advanced Data Analysis:** Exploring machine learning and predictive analytics using Python and R.
+  
+- **Open Source Contributions:** Engaging with the open-source community to enhance testing frameworks and tools.
+  
 Video: My Latest Project
 
 Check out a demo of my latest project.
