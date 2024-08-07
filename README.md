@@ -28,7 +28,7 @@ Some of the tools I use frequently.
 
 ## 📁 Repositories
 
-**[Embedded Systems Projects](https://github.com/quickbrnfx/embeddedprojects)**
+**[Embedded Systems Projects](https://github.com/quickbrnfx/embedded)**
 
 Explore my work with embedded C and hardware-related projects. These repositories include firmware development, hardware interfacing, and system testing.
 
