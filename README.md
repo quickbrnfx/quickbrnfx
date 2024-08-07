@@ -35,19 +35,19 @@ Explore my work with embedded C and hardware-related projects. These repositorie
 
 Sample project screenshot.
 
-[Python Scripts & Utilities]
+**[Python Scripts & Utilities](https://github.com/quickbrnfx/py)**
 Find various Python scripts for automation, data processing, and more. These repositories demonstrate practical uses of Python in real-world scenarios.
 
 
 A Python script in action.
 
-[Data Analysis & Visualization]
+**[Data Analysis & Visualization](https://github.com/quickbrnfx/data)**
 Check out my R and statistical analysis projects. These include data cleaning, statistical modeling, and visualization techniques to derive insights from data.
 
 
 Visualizations and insights from my data analysis projects.
 
-[Testing Frameworks & Tools]
+**[Testing Frameworks & Tools](https://github.com/quickbrnfx/test)**
 A collection of test cases, frameworks, and tools designed to ensure software quality and reliability. Includes both unit and integration testing examples.
 
 
