@@ -1,7 +1,7 @@
 ## Hi there 👋 Im Mario!
 
 Welcome to My GitHub Profile!
-I’m a Senior Test Engineer with a strong background in embedded C programming, Python, and statistical analysis. This GitHub repository showcases my projects, tools, and contributions in the field of software engineering and data analysis.
+I’m a Test Engineer with a strong background in embedded C programming, Python, and statistical analysis. This GitHub repository showcases my projects, tools, and contributions in the field of software engineering and data analysis.
 
 📚 About Me
 With extensive experience in embedded systems and a passion for data-driven insights, I specialize in:
