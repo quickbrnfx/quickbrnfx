@@ -21,7 +21,7 @@ Example of an embedded system I’ve worked on.
 Some of the tools I use frequently.
 
 ### 📁 Repositories
-[Embedded Systems Projects]
+[Embedded Systems Projects](https://github.com/quickbrnfx/embeddedprojects)
 Explore my work with embedded C and hardware-related projects. These repositories include firmware development, hardware interfacing, and system testing.
 
 
