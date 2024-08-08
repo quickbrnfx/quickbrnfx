@@ -28,6 +28,10 @@ Some of the tools I use frequently.
 
 ## 📁 Repositories
 
+**[HomeLab](https://github.com/quickbrnfx/homelab)**
+
+Explore my work with hardware and software in my home environment to create a platform for technological exploration. The goal is to provide a practical, flexible platform for learning and innovation in a controlled and customizable environment.
+
 **[Embedded Systems Projects](https://github.com/quickbrnfx/embedded)**
 
 Explore my work with embedded C and hardware-related projects. These repositories include firmware development, hardware interfacing, and system testing.
