@@ -69,9 +69,12 @@ Watch Video on YouTube
 ## 📫 Get in Touch
 Feel free to connect with me:
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: https://www.linkedin.com/in/mario-colapelle/
+
 Email: your.email@example.com
+
 Twitter: @YourTwitterHandle
+
 Thank you for visiting my GitHub profile. If you have any questions or would like to collaborate, don’t hesitate to reach out!
 
 Happy coding!
