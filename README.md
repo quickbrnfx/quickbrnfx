@@ -9,7 +9,7 @@ I hope that the information here will
 have some level of educational value to some. Even if it is how NOT to do something.
 
 ## 📚 About Me
-With extensive experience in embedded systems and a passion for data-driven insights, I specialize in:
+My focus and interests are in thr following area:
 
 - **Embedded C Programming:** Crafting efficient and reliable code for embedded systems.
   
