@@ -9,7 +9,7 @@ I hope that the information here will
 have some level of educational value to some. Even if it is how NOT to do something.
 
 ## 📚 About Me
-My focus and interests are in thr following area:
+My focus and interests are in the following areas:
 
 - **Embedded C Programming:** Crafting efficient and reliable code for embedded systems.
   
