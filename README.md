@@ -1,5 +1,9 @@
 # Hello World!
-I’m a Senior Test Engineer with a strong background in embedded C programming, Python, and statistical analysis. This GitHub repository showcases my projects, tools, and contributions in the field of software engineering and data analysis.
+"The single biggest problem with communication is the illusion that it has taken place."
+
+- George Bernard Shaw
+
+This GitHub repository showcases my projects, tools, and contributions in the field of software engineering and data analysis.
 
 ## 📚 About Me
 With extensive experience in embedded systems and a passion for data-driven insights, I specialize in:
