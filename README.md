@@ -1,7 +1,7 @@
 # Hello World!
 ### "The single biggest problem with communication is the illusion that it has taken place."
 
-* * George Bernard Shaw * *
+_George Bernard Shaw_
 
 This GitHub repository showcases my projects, tools, and contributions in the field of software engineering and data analysis.
 
