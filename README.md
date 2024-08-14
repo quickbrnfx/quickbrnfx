@@ -3,7 +3,7 @@
 
 _George Bernard Shaw_
 
-This GitHub repository is my attempt at communicating my projects, tools, and contributions in the field of software engineering and data analysis.
+This GitHub repository is my attempt at communicating my projects, tools, and contributions in the field of engineering and data analysis.
 
 ## 📚 About Me
 With extensive experience in embedded systems and a passion for data-driven insights, I specialize in:
