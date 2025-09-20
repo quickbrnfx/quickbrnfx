@@ -15,20 +15,12 @@ My focus and interests are in the following areas:
   
 - **Python:** Utilizing Python for scripting, automation, and data analysis.
   
-- **R:** Performing statistical analysis and data visualization.
   
 - **Statistical Programs:** Leveraging various tools to extract meaningful insights from complex datasets.
 
-Example of an embedded system I’ve worked on.
 
 ## 🔧 Technologies & Tools
-**Languages:** C, Python, R
 
-**Tools:** Git, GitHub, Jenkins, JIRA
-
-**Statistical Tools:** RStudio, MATLAB, Excel
-
-**Embedded Systems:** Arduino, Raspberry Pi, various microcontrollers
  
 
 Some of the tools I use frequently.
