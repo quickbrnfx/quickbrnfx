@@ -36,13 +36,13 @@ Explore my work with hardware and software in my home environment to create a pl
 Explore my work with embedded C and hardware-related projects. These repositories include firmware development, hardware interfacing, and system testing.
 
 
-Sample project screenshot.
+
 
 **[Python Scripts & Utilities](https://github.com/quickbrnfx/py)**
 Find various Python scripts for automation, data processing, and more. These repositories demonstrate practical uses of Python in real-world scenarios.
 
 
-A Python script in action.
+
 
 **[Data Analysis & Visualization](https://github.com/quickbrnfx/data)**
 Check out my R and statistical analysis projects. These include data cleaning, statistical modeling, and visualization techniques to derive insights from data.
@@ -67,19 +67,13 @@ Example of a testing framework in use.
   
 - **Open Source Contributions:** Engaging with the open-source community to enhance testing frameworks and tools.
   
-Video: My Latest Project
-
-Check out a demo of my latest project.
-Watch Video on YouTube
 
 ## 📫 Get in Touch
 Feel free to connect with me:
 
 LinkedIn: https://www.linkedin.com/in/mario-colapelle/
 
-Email: your.email@example.com
-
-Twitter: @YourTwitterHandle
+Email: mcolapelle@gmail.com
 
 Thank you for visiting my GitHub profile. If you have any questions or would like to collaborate, don’t hesitate to reach out!
 
